@@ -1,3 +1,8 @@
+import Casa.Area;
+import Casa.Banheiro;
+import Casa.Garagem;
+import Casa.Quarto;
+import Casa.Sala;
 
 public class Casa {
 	
